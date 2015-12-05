@@ -1,0 +1,11 @@
+
+Starting Nmap 6.47 ( http://nmap.org ) at 2015-12-05 00:45 IST
+Nmap scan report for ec2-52-22-172-39.compute-1.amazonaws.com (52.22.172.39)
+Host is up (0.36s latency).
+Not shown: 97 closed ports
+PORT     STATE    SERVICE
+22/tcp   open     ssh
+80/tcp   open     http
+1720/tcp filtered H.323/Q.931
+
+Nmap done: 1 IP address (1 host up) scanned in 4.36 seconds
